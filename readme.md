@@ -1,0 +1,1 @@
+This is the condensed version of the setup provided in https://github.com/rasbt/LLMs-from-scratch
